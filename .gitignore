@@ -8,3 +8,10 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Assignment 2: Exclude downloaded CIFAR-10 dataset
+data/
+
+# Python cache
+__pycache__/
+*.pyc
